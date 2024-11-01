@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/*
+    Overwrite Wordpress things
+ */
+.dashicons, .dashicons-before:before{
+    line-height: unset;
+    margin-right: 5px;
+    color: #a0a5aa;
+}
+.custom-language-switcher-link .ab-item{
+    min-width: unset !important;
+}

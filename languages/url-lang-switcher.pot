@@ -1,0 +1,34 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2019-03-16 19:03+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: global/class-url-lang-switcher-global.php:80
+msgid "Change language"
+msgstr ""
+
+#. Name of the plugin
+msgid "URL Language Switcher"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://gitlab.com/niks-wordpress-plugins/url-lang-switcher"
+msgstr ""
+
+#. Author of the plugin
+msgid "Niklas Grieger"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://niklas-grieger.de/"
+msgstr ""
